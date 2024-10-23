@@ -2,7 +2,7 @@
 - I’m interested in:
     - Autonomous Robotic Systems
     - Planetary Exploration and Development
-    - Planetary Rover Mission Planning and Adversarial Strategies
+    - Planetary Rover/Satellite Mission Planning and Adversarial Strategies
     - Low Earth Orbit Satellites
     - Planning of Multi-Agent Satellite Constellations
     - Application of Machine Learning/Deep Learning for Complex Engineering Problem
