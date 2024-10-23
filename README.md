@@ -1,13 +1,13 @@
-- 👋 Hi, I’m @Keeby-Astro
-- 👀 I’m interested in:
+- 👋 Hello, I am @Keeby-Astro
+- I’m interested in:
     - Autonomous Robotic Systems
     - Planetary Exploration and Development
     - Planetary Rover Mission Planning and Adversarial Strategies
     - Low Earth Orbit Satellites
     - Planning of Multi-Agent Satellite Constellations
     - Application of Machine Learning/Deep Learning for Complex Engineering Problem
-- 🌱 I’m currently a graduate Aerospace Engineering student at the University of Oklahoma
-- ⚡ Current Research:
+- I’m currently a graduate Aerospace Engineering student at the University of Oklahoma with a focus in Astrodynamics/Orbital Mechanics
+- Current Research:
     - Orbital Analysis of Satellite Constellations
     - Solving Unknown Satellite Parameters using Hierarchical Density-Based
       Spatial Clustering with Application of Noise
