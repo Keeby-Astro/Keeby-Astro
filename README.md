@@ -1,5 +1,5 @@
 - 👋 Hello, I am @Keeby-Astro
-- I’m interested in:
+- My research interests include:
     - Autonomous Robotic Systems
     - Planetary Exploration and Development
     - Planetary Rover/Satellite Mission Planning and Adversarial Strategies
