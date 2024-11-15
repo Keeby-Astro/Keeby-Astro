@@ -6,7 +6,7 @@
     - Low Earth Orbit Satellites
     - Planning of Multi-Agent Satellite Constellations
     - Application of Machine Learning/Deep Learning for Complex Engineering Problem
-- I’m currently a graduate Aerospace Engineering student at the University of Oklahoma with a focus in Orbital Mechanics
+- I’m currently a graduate Aerospace Engineering student at the University of Oklahoma with a focus in Orbital Mechanics, Astrodynamics, and CubeSat Design
 - Current Research:
     - Orbital Analysis of Satellite Constellations
     - Solving Unknown Satellite Parameters using Hierarchical Density-Based
