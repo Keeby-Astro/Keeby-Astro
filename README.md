@@ -16,7 +16,7 @@
 <a href="https://www.python.org" target="_blank">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
 </a>
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+<a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank">
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
 </a>
 <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
