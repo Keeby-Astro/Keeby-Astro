@@ -1,17 +1,16 @@
 - 👋 Hello, I am @Keeby-Astro
 - My research interests include:
     - Autonomous Robotic Systems
-    - Planetary Exploration and Development
     - Planetary Rover/Satellite Mission Planning and Adversarial Strategies
-    - Low Earth Orbit Satellites
+    - Low Earth Orbit Satellite Constellations
     - Planning of Multi-Agent Satellite Constellations
-    - Application of Machine Learning/Deep Learning for Complex Engineering Problems
-- I’m currently a graduate Aerospace Engineering student at the University of Oklahoma with a focus in Orbital Mechanics, Astrodynamics, and CubeSat Design
+    - Application of Machine Learning/Deep Learning for Complex Physics Problems
+    - 
+- I’m currently a graduate Aerospace Engineering student at the University of Oklahoma with a focus in Orbital Mechanics, Astrodynamics, and Machine Learning
 - Current Research:
-    - Orbital Analysis of Satellite Constellations
-    - Solving Unknown Satellite Parameters using Hierarchical Density-Based
-      Spatial Clustering with Application of Noise
-    - Time-Series Forecasting of Solar Flux using Transformer Models
+    - On Analysis of Low Earth Orbit Satellite Constellations 
+    - Analysis of Unknown Satellite Families for Large-Scale Constellations Using UMAP and HDBSCAN
+    - Time-Series Forecasting of 10.7 cm Solar Radio Flux using ResNeXt-iTransformer Hybrid Model
 
 <a href="https://www.python.org" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
