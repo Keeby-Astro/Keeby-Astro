@@ -8,7 +8,8 @@
     
 - I’m currently a graduate Aerospace Engineering student at the University of Oklahoma with a focus in Orbital Mechanics, Astrodynamics, and Machine Learning
 - Current Research:
-    - On Analysis of Low Earth Orbit Satellite Constellations 
+    - On Analysis of Low Earth Orbit Satellite Constellations
+    - Markov Chain Monte Carlo Estimation of Satellite Ballistic Coefficients for Re-entry Prediction
     - Analysis of Unknown Satellite Families for Large-Scale Constellations Using UMAP and HDBSCAN
     - Time-Series Forecasting of 10.7 cm Solar Radio Flux using ResNeXt-iTransformer Hybrid Model
 
