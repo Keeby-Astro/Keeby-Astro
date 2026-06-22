@@ -6,7 +6,7 @@
     - Planning of Multi-Agent Satellite Constellations
     - Application of Machine Learning/Deep Learning for Complex Physics Problems
     
-- I’m currently a graduate Aerospace Engineering student at the University of Oklahoma with a focus in Orbital Mechanics, Astrodynamics, and Machine Learning
+- I’m currently a Aerospace Engineering PhD student at the University of Oklahoma with a focus in Orbital Mechanics, Astrodynamics, Heliophysics, and Machine Learning
 - Current Research:
     - On Analysis of Low Earth Orbit Satellite Constellations
     - Markov Chain Monte Carlo Estimation of Satellite Ballistic Coefficients for Re-entry Prediction
